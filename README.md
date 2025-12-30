@@ -1,4 +1,4 @@
-# 🚀 Sean Mathew Bieman — Software Developer Portfolio
+# 🚀 GANNON-G-SMITH — Software Developer Portfolio
 
 Welcome to my professional portfolio. This repository highlights my background, technical skills, and experience building scalable software solutions, managing data systems, and providing reliable IT support. I’m passionate about creating efficient, user-focused digital solutions and continuously improving system performance.
 
@@ -94,7 +94,7 @@ Purdue University – West Lafayette, IN
 
 ## 📫 Contact
 
-* **Email:** [seanbieman@mail.com](mailto:seanbieman@mail.com)
+* **Email:** [GANNONsmith5@mail.com](mailto:GANNONsmith5@mail.com)
 * **Phone:** +1 (276) 400 9494
 
 ---
